@@ -1,0 +1,5 @@
+runs/
+yolov8n.pt
+*.pt
+__pycache__/
+.ipynb_checkpoints/
